@@ -65,6 +65,7 @@ int main()
                 scanf("%d", &amount);
                 withdraw(data, n, account_no, amount);
         }
+        
     }
 while (choice != 0);                                  //enter 0 to end the program.
 
